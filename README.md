@@ -6,6 +6,16 @@ This repository is a game of guessing number higher or lower, which is implement
 
 > HINT: If you have any questions, please feel free to ask me.
 
+## Rules
+
+- The number A and B are always randomly generated between 1 - 99
+- When B > A and user chose `Higher`，the game result is WIN
+- When B > A and user chose `Lower`，the game result is LOSE
+- When B < A and user chose `Higher`，the game result is LOSE
+- When B < A and user chose `Lower`，the game result is WIN
+- When B = A and user chose `Higher`，the game result is LOSE
+- When B = A and user chose `Lower`，the game result is LOSE
+
 ---
 
 ## Description
