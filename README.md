@@ -2,13 +2,13 @@
 
 ![](assets/img/Demo.png)
 
-This repository is a game of guessing number higher or lower, which is implemented in React and TypeScript. 🚀
+This repository is a game of guessing number higher or lower in 0 - 99, which is implemented in React and TypeScript. 🚀
 
 > HINT: If you have any questions, please feel free to ask me.
 
 ## Rules
 
-- The number A and B are always randomly generated between 1 - 99
+- The number A and B are always randomly generated between 0 - 99
 - When B > A and user chose `Higher`，the game result is WIN
 - When B > A and user chose `Lower`，the game result is LOSE
 - When B < A and user chose `Higher`，the game result is LOSE
